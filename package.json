@@ -1,7 +1,7 @@
 {
-  "name": "web-proxy",
+  "name": "ituyama-proxy",
   "version": "1.0.0",
-  "description": "Simple proxy",
+  "description": "ITUYAMA-PROXY Service",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
